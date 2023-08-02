@@ -163,7 +163,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 0.3
+      m_SerializableObject: 0.1
     m_Space: 2147483647
   m_Property:
     name: Rate
@@ -593,7 +593,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.Vector, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"vector":{"x":0.0,"y":6.0,"z":0.0}}'
+      m_SerializableObject: '{"vector":{"x":0.0,"y":8.0,"z":0.0}}'
     m_Space: 0
   m_Property:
     name: A
@@ -763,7 +763,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.Vector, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"vector":{"x":0.0,"y":6.0,"z":0.0}}'
+      m_SerializableObject: '{"vector":{"x":0.0,"y":8.0,"z":0.0}}'
     m_Space: 0
   m_Property:
     name: B
@@ -2348,7 +2348,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 2
+      m_SerializableObject: 4
     m_Space: 2147483647
   m_Property:
     name: A
@@ -2382,7 +2382,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 4
+      m_SerializableObject: 6
     m_Space: 2147483647
   m_Property:
     name: B
@@ -2752,7 +2752,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Gradient, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"colorKeys":[{"color":{"r":0.715283989906311,"g":86.4555892944336,"b":151.6398468017578,"a":1.0},"time":0.01765468902885914},{"color":{"r":1.003921627998352,"g":1.756862759590149,"b":47.937255859375,"a":1.0},"time":0.04118410125374794},{"color":{"r":0.662341296672821,"g":0.662341296672821,"b":27.15599250793457,"a":1.0},"time":0.8294193744659424}],"alphaKeys":[{"alpha":1.0,"time":0.0},{"alpha":0.16176468133926392,"time":0.8323491215705872},{"alpha":0.0,"time":1.0}],"gradientMode":0}'
+      m_SerializableObject: '{"colorKeys":[{"color":{"r":0.2612626850605011,"g":17.269527435302736,"b":55.38755416870117,"a":1.0},"time":0.0117647061124444},{"color":{"r":1.2168482542037964,"g":7.1797356605529789,"b":36.85309982299805,"a":1.0},"time":0.052948806434869769},{"color":{"r":22.72876739501953,"g":15.41246509552002,"b":79.56166076660156,"a":1.0},"time":0.9499961733818054}],"alphaKeys":[{"alpha":1.0,"time":0.43823909759521487},{"alpha":0.16176468133926392,"time":0.8323491215705872},{"alpha":0.0,"time":1.0}],"gradientMode":0}'
     m_Space: 2147483647
   m_Property:
     name: Color
@@ -2930,7 +2930,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_UIIgnoredErrors: []
-  m_Parent: {fileID: 0}
+  m_Parent: {fileID: 114350483966674976}
   m_Children: []
   m_UIPosition: {x: 0, y: 0}
   m_UICollapsed: 1
@@ -3290,7 +3290,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_UIIgnoredErrors: []
-  m_Parent: {fileID: 0}
+  m_Parent: {fileID: 114350483966674976}
   m_Children: []
   m_UIPosition: {x: 0, y: 0}
   m_UICollapsed: 1
@@ -3685,7 +3685,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 70
+      m_SerializableObject: 50.3
     m_Space: 2147483647
   m_Property:
     name: Size
@@ -3775,7 +3775,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":1.011323094367981,"y":0.6021032333374023,"z":1.2638205289840699}'
+      m_SerializableObject: '{"x":1.2147701978683472,"y":0.6644189953804016,"z":1.5478771924972535}'
     m_Space: 2147483647
   m_Property:
     name: Color
@@ -4145,7 +4145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_UIIgnoredErrors: []
-  m_Parent: {fileID: 0}
+  m_Parent: {fileID: 114350483966674976}
   m_Children: []
   m_UIPosition: {x: 0, y: 0}
   m_UICollapsed: 1
@@ -4316,7 +4316,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 200
+      m_SerializableObject: 400
     m_Space: 2147483647
   m_Property:
     name: Size
@@ -4443,7 +4443,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":0.14907439053058625,"y":0.23988322913646699,"z":0.4716981053352356}'
+      m_SerializableObject: '{"x":0.15971526503562928,"y":0.2563849985599518,"z":0.5043639540672302}'
     m_Space: 2147483647
   m_Property:
     name: Color
@@ -4903,7 +4903,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_UIIgnoredErrors: []
-  m_Parent: {fileID: 0}
+  m_Parent: {fileID: 114350483966674976}
   m_Children: []
   m_UIPosition: {x: 0, y: 0}
   m_UICollapsed: 1

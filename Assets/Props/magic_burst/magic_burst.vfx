@@ -7497,7 +7497,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector2, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":1.1399999856948853,"y":0.0}'
+      m_SerializableObject: '{"x":2.0,"y":0.0}'
     m_Space: 2147483647
   m_Property:
     name: Vector2_b8b909c536254e9b98a63dfcd66bd00e
@@ -7936,7 +7936,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":38.02000045776367,"y":5.78000020980835,"z":0.8700000047683716}'
+      m_SerializableObject: '{"x":37.400001525878909,"y":3.0,"z":4.400000095367432}'
     m_Space: 2147483647
   m_Property:
     name: Scale

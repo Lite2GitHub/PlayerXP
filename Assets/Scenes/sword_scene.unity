@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.041862138, g: 0.01617396, b: 0.0026150448, a: 1}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -588,7 +588,7 @@ PrefabInstance:
     - target: {fileID: -1449199242322709794, guid: 3e31cfcf57851a2498b2060a5477d34a, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: ec3c525f8c73ba149a029f59550312ea, type: 2}
+      objectReference: {fileID: 2100000, guid: afd52be2371b5fe429e1e38c291e0bb9, type: 2}
     - target: {fileID: 919132149155446097, guid: 3e31cfcf57851a2498b2060a5477d34a, type: 3}
       propertyPath: m_Name
       value: sword_final

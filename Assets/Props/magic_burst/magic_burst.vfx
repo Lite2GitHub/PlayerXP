@@ -19,8 +19,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 941
     y: -190
-    width: 3278
-    height: 3342
+    width: 2824
+    height: 3322
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86,7 +86,7 @@ VisualEffectResource:
     m_UpdateMode: 0
     m_PreWarmDeltaTime: 0.05
     m_PreWarmStepCount: 0
-    m_InitialEventName: OnPlay
+    m_InitialEventName: magicBurst
 --- !u!114 &8926484042661614555
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1718,7 +1718,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 3793, y: 740}
+  m_UIPosition: {x: 2143, y: 786}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -1806,7 +1806,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614667}
   - {fileID: 8926484042661614670}
   - {fileID: 8926484042661614675}
-  m_UIPosition: {x: 3794, y: 956}
+  m_UIPosition: {x: 2144, y: 1002}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -2172,7 +2172,7 @@ MonoBehaviour:
   m_Parent: {fileID: 114350483966674976}
   m_Children:
   - {fileID: 8926484042661614686}
-  m_UIPosition: {x: 3794, y: 1448}
+  m_UIPosition: {x: 2144, y: 1546}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -2210,7 +2210,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614657}
   - {fileID: 8926484042661614688}
   - {fileID: 8926484042661614699}
-  m_UIPosition: {x: 3795, y: 1670}
+  m_UIPosition: {x: 2144, y: 1733}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -2875,7 +2875,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 3258, y: 796}
+  m_UIPosition: {x: 2817, y: 788}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -2962,7 +2962,7 @@ MonoBehaviour:
   m_Children:
   - {fileID: 8926484042661614718}
   - {fileID: 8926484042661614737}
-  m_UIPosition: {x: 3260, y: 1064}
+  m_UIPosition: {x: 2819, y: 1056}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -3389,7 +3389,7 @@ MonoBehaviour:
   m_Parent: {fileID: 114350483966674976}
   m_Children:
   - {fileID: 8926484042661614722}
-  m_UIPosition: {x: 3255, y: 1402}
+  m_UIPosition: {x: 2814, y: 1394}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -3485,7 +3485,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614735}
   - {fileID: 8926484042661614733}
   - {fileID: 8926484042661614738}
-  m_UIPosition: {x: 3256, y: 1624}
+  m_UIPosition: {x: 2815, y: 1616}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -3998,7 +3998,7 @@ MonoBehaviour:
   m_Parent: {fileID: 114350483966674976}
   m_Children:
   - {fileID: 8926484042661614761}
-  m_UIPosition: {x: 2719, y: 1491}
+  m_UIPosition: {x: 3336, y: 1396}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -4090,7 +4090,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 2722, y: 885}
+  m_UIPosition: {x: 3339, y: 790}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -4179,7 +4179,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614770}
   - {fileID: 8926484042661614772}
   - {fileID: 8926484042661614774}
-  m_UIPosition: {x: 2720, y: 1713}
+  m_UIPosition: {x: 3337, y: 1618}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -4575,7 +4575,7 @@ MonoBehaviour:
   m_Children:
   - {fileID: 8926484042661614790}
   - {fileID: 8926484042661614792}
-  m_UIPosition: {x: 2724, y: 1153}
+  m_UIPosition: {x: 3341, y: 1058}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -7054,14 +7054,14 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 1209, y: 2857}
+  m_UIPosition: {x: 1184, y: 2420}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
   m_OutputSlots:
   - {fileID: 8926484042661615174}
   attribute: spawnIndexInStrip
-  location: 0
+  location: 1
   mask: xyz
 --- !u!114 &8926484042661615174
 MonoBehaviour:

@@ -458,6 +458,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f570ab3ee7f0b940a95ae062bbea8e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  magicBurst: {fileID: 1669446828}
 --- !u!1 &956052531
 GameObject:
   m_ObjectHideFlags: 0
@@ -657,8 +658,8 @@ VisualEffect:
   m_GameObject: {fileID: 1669446826}
   m_Enabled: 1
   m_Asset: {fileID: 8926484042661614526, guid: 0631744112187ff4e8a2f9973795f651, type: 3}
-  m_InitialEventName: OnPlay
-  m_InitialEventNameOverriden: 0
+  m_InitialEventName: magicBurst
+  m_InitialEventNameOverriden: 1
   m_StartSeed: 0
   m_ResetSeedOnPlay: 1
   m_ResourceVersion: 1

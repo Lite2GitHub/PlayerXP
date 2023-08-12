@@ -59,7 +59,6 @@ MonoBehaviour:
   m_ImportDependencies: []
   m_GraphVersion: 6
   m_ResourceVersion: 1
-  m_saved: 1
   m_SubgraphDependencies:
   - {fileID: 5371698745253816930, guid: dae4144dffecbac46abeb422d27c2aa3, type: 3}
   m_CategoryPath: Attribute
@@ -110,6 +109,7 @@ MonoBehaviour:
   m_InputFlowSlot: []
   m_OutputFlowSlot:
   - link: []
+  m_SuitableContexts: 26
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -218,8 +218,7 @@ MonoBehaviour:
   m_InputSlots: []
   m_OutputSlots:
   - {fileID: 27}
-  m_Subgraph: {fileID: 5371698745253816930, guid: dae4144dffecbac46abeb422d27c2aa3,
-    type: 3}
+  m_Subgraph: {fileID: 5371698745253816930, guid: dae4144dffecbac46abeb422d27c2aa3, type: 3}
 --- !u!114 &27
 MonoBehaviour:
   m_ObjectHideFlags: 0

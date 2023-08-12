@@ -1,19 +1,29 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEditor.VFX.Utility;
+using UnityEngine.VFX;
 
 public class ActivateBoom : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public VisualEffect magicBurst;
+
+    void Update ()
     {
-        
+        if (Input.GetKeyDown(KeyCode.E)) {
+
+            Debug.Log("Magic!");
+            PlayMagic();
+        }
+
     }
 
-    // Update is called once per frame
-    void Update()
+    void PlayMagic()
     {
-        
+        magicBurst.Play();
+
     }
+
+
+
 }
+

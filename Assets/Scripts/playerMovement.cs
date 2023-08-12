@@ -20,13 +20,15 @@ public class playerMovement : MonoBehaviour
     //radius of the checking sphere
     public LayerMask groundMask;
     //Checking for the 'ground' layer
+    
 
     Vector3 velocity;
     //store current velocity
     bool isGrounded;
     //simple true/false
+    
 
-    // Update is called once per frame
+    
     void Update()
     {
         isGrounded = Physics.CheckSphere(groundCheck.position, groundDist, groundMask);
@@ -37,6 +39,7 @@ public class playerMovement : MonoBehaviour
             velocity.y = -2f;
         }
         //if grounded check passes and velocity is negative (aka falling), apply slight pulling force downwards to properly ground
+
 
         float x = Input.GetAxis("Horizontal");
         float z = Input.GetAxis("Vertical");

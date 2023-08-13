@@ -678,7 +678,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   outlineMode: 0
   outlineColor: {r: 0.16785331, g: 0.49557105, b: 0.8679245, a: 1}
-  outlineWidth: 3
+  outlineWidth: 7.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -2768,7 +2768,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: e6faa891c236ab94087c139aac579f35, type: 2}
     - target: {fileID: 919132149155446097, guid: c686019b31926fe4395a553d8a190325, type: 3}
       propertyPath: m_Name
-      value: final_sword
+      value: sword_altar
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c686019b31926fe4395a553d8a190325, type: 3}

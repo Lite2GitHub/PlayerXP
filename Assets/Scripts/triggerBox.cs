@@ -4,15 +4,11 @@ using UnityEngine;
 
 public class triggerBox : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public GameObject player;
+    public GameObject SolvedLight;
+    public GameObject ProblemLight;
+    public BoxCollider Collider;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    bool BoxCollider;
+
 }

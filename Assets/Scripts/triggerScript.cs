@@ -5,10 +5,15 @@ using UnityEngine;
 public class triggerScript : MonoBehaviour
 {
     Animator _swordAnim;
+    GameObject sword_altar;
+
+    
 
     private void OnTriggerEnter(Collider other)
     {
         _swordAnim.SetTrigger("beginRise");
+        sword_altar.GetComponent<Outline>().enabled = true;
+
     }
      void Start()
     {

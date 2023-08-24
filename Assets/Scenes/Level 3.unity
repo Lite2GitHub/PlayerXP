@@ -2063,28 +2063,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 11a5d1282ee087541b1ab3f4bff2601d, type: 3}
---- !u!1 &1357836242 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8864988327738462809, guid: bdfffefca5a91bf47b549b55d10d6310, type: 3}
-  m_PrefabInstance: {fileID: 646812654}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1357836243
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1357836242}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 65c4b768965e28c4a8b3aaaa3467eefc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  interactionDistance: 40
-  intText: {fileID: 708105049}
-  doorOpenAnimName: door open
-  doorIdle: 
-  doorOpen: {fileID: 0}
 --- !u!1 &1446193666
 GameObject:
   m_ObjectHideFlags: 0
